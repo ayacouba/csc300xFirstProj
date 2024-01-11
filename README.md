@@ -1,1 +1,2 @@
 # csc300xFirstProj
+csc300x proj readme
